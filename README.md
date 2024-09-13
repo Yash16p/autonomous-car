@@ -108,7 +108,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Created by [Yuvraj Singh Chowdhary](https://github.com/chowdhary19)
+Created by [Yash Pandey](https://github.com/Yash16p)
 
 
 
